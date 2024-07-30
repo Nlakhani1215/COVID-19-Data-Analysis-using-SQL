@@ -1,1 +1,1 @@
-"# COVID-19-Data-Analysis-using-SQL" 
+"# Hospital Patient Data Analysis using SQL" 
